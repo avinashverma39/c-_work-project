@@ -8,10 +8,12 @@ int main()
 {
     // srand(time(0));
     // cout << "Random Number " << randomNumber;
+
     // srand(time(0));
     // int randomNumber = rand();
     // int randomNumber = rand() % 100 + 1;
     // // cout << "Random Number " << randomNumber;
+
     // for (int i = 0; i <= 5; i++)
     // {
     //     cout << randomNumber << endl;
